@@ -3,7 +3,8 @@
 # 5/27/2025
 # This is a collection of my coding work throughout the year.
 
-SEMESTER 1:
+#SEMESTER 1:
+
 #Project 1: Color Generator - This is a "name generator" style game that allows the player to select answers to this or that questions that will determine what color matches their personality. 
 
 
@@ -19,7 +20,8 @@ SEMESTER 1:
 #Project 5: Underwater Scene - This is a drawing of fish, urchins, and seaweed (an underwater scene) that me, Jasmine, and Grace coded together.
 
 
-SEMESTER 2:
+#SEMESTER 2:
+
 #Project 6: My Create Task - This is the code I submitted for the AP test. This code contains a procedure that recommends an activity to its user based on if they want to be indoor or outdoor. It includes iteration, sequencing, and selection.
 
 
