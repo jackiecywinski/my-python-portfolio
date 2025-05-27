@@ -17,3 +17,6 @@
 
 
 #Project 5: Underwater Scene - This is a drawing of fish, urchins, and seaweed (an underwater scene) that me, Jasmine, and Grace coded together.
+
+
+#Project 6: My Create Task - This is the code I submitted for the AP test. This code contains a procedure that recommends an activity to its user based on if they want to be indoor or outdoor. It includes iteration, sequencing, and selection.
