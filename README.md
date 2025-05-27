@@ -20,3 +20,6 @@
 
 
 #Project 6: My Create Task - This is the code I submitted for the AP test. This code contains a procedure that recommends an activity to its user based on if they want to be indoor or outdoor. It includes iteration, sequencing, and selection.
+
+
+#Project 7: Images - This project is a game that recommends a vacation location to its user. It does so by providing an image of the vacation destination with a description of the place. I learned to cite images by developing this program.
